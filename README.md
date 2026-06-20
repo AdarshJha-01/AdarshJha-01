@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdarshJha-01/AdarshJha-01/main/Banner-adarsh.png" alt="Adarsh Jha Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/AdarshJha-01/AdarshJha-01/main/Banner-adarsh.png" alt="Adarsh Jha Banner" width="800">
 </p>
 <h3 align="center">A passionate BSC IT Student | Eager to Learn and Achieve new Technologies | Growth-Oriented </h3>
 
