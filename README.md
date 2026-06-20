@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
 <p align="center">
-  <img src="" alt="" style="max-width: 100%;"/>
+  <img src="banner-image.jpg" alt="Adarsh Jha Banner" style="max-width: 100%;"/>
 </p>
 <h3 align="center">A passionate BSC IT Student | Eager to Learn and Achieve new Technologies | Growth-Oriented </h3>
 
